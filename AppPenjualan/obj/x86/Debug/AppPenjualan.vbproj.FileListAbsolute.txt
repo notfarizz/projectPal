@@ -1,0 +1,135 @@
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+c:\users\daf\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+C:\Daffa Fauzul Hakim\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+C:\Users\DAF\documents\visual studio 2010\Projects\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.exe
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.pdb
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\bin\Debug\AppPenjualan.xml
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\bin\Debug\Interop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapBeli.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterSupplier.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\AppPenjualan\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransBeli.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\bin\Debug\AppPenjualan.exe
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\bin\Debug\AppPenjualan.pdb
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\bin\Debug\AppPenjualan.xml
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\bin\Debug\Interop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapBeli.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterSupplier.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransBeli.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+C:\Users\DAF\Documents\Visual Studio 2010\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\bin\Debug\AppPenjualan.exe
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\bin\Debug\AppPenjualan.pdb
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\bin\Debug\AppPenjualan.xml
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\bin\Debug\Interop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapBeli.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterSupplier.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransBeli.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+C:\Users\DAF\Documents\Visual Studio 2010\Projects\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\Interop.Crystal.dll
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.ResolveComReference.cache
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.exe
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.xml
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.pdb
+C:\Riezz Project\Aa\PMobile\AppPenjualan\bin\Debug\AppPenjualan.exe
+C:\Riezz Project\Aa\PMobile\AppPenjualan\bin\Debug\AppPenjualan.pdb
+C:\Riezz Project\Aa\PMobile\AppPenjualan\bin\Debug\AppPenjualan.xml
+C:\Riezz Project\Aa\PMobile\AppPenjualan\bin\Debug\Interop.Crystal.dll
+C:\Riezz Project\Aa\PMobile\AppPenjualan\bin\Debug\AxInterop.Crystal.dll
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapBeli.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterSupplier.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormGantiPassword.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapJual.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLapDataMaster.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterBarang.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormLogin.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterAdmin.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMasterPelanggan.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormMenuUtama.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransBeli.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.FormTransJual.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.Resources.resources
+C:\Riezz Project\Aa\PMobile\AppPenjualan\obj\x86\Debug\AppPenjualan.vbproj.GenerateResource.Cache
